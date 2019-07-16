@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>201 Oscillator Type</string>
+		<string>301 </string>
+		<string>303 </string>
+		<string>307 Oscillator 2 Semitone</string>
+		<string>308 Oscillator 2 Detune</string>
+		<string>209 Oscillator Mix</string>
+		<string>403 Cutoff</string>
+		<string>404 Resonance</string>
+		<string>408 Filter FM / Drive</string>
+		<string>401 Filter State</string>
+		<string>402 Filter Type</string>
+		<string>501 Effects State</string>
+		<string>502 Effects Type</string>
+		<string>504 Effect Intensity</string>
+		<string>505 Effect Rate</string>
+		<string>5 Output Volume</string>
+		<string>3 Transpose</string>
+		<string>4 Tune</string>
+		<string>210 Sine Level</string>
+		<string>1 Voices</string>
+		<string>2 Voice Stacking</string>
+		<string>12 Voice Detune</string>
+		<string>11 Stereo Spread</string>
+		<string>102 Velocity to</string>
+		<string>103 Velocity Mod Amount</string>
+		<string>104 ModWheel to</string>
+		<string>105 ModWheel Mod Amount</string>
+		<string>106 Aftertouch to</string>
+		<string>107 Aftertouch Mod Amount</string>
+		<string>202 Vibrato Depth</string>
+		<string>203 Glide/Autobend</string>
+		<string>204 </string>
+		<string>205 </string>
+		<string>207 Glide/AB Time</string>
+		<string>206 </string>
+		<string>208 Oscillator Shape by LFO/Env</string>
+		<string>405 Filter Key Track</string>
+		<string>406 Cutoff by LFO</string>
+		<string>407 Cutoff by Env</string>
+		<string>602 LFO Wave</string>
+		<string>603 LFO Sync</string>
+		<string>604 LFO Rate</string>
+		<string>605 LFO Via Source</string>
+		<string>606 LFO Via Amount</string>
+		<string>652 Vibrato Wave</string>
+		<string>653 Vibrato Sync</string>
+		<string>654 Vibrato Rate</string>
+		<string>655 Vibrato Via Source</string>
+		<string>656 Vibrato Via Amount</string>
+		<string>702 Filter Env Attack</string>
+		<string>703 Filter Env Decay</string>
+		<string>704 Filter Env Sustain</string>
+		<string>705 Filter Env Release</string>
+		<string>706 Filter Env Velocity</string>
+		<string>802 Amp Env Attack</string>
+		<string>803 Amp Env Decay</string>
+		<string>804 Amp Env Sustain</string>
+		<string>805 Amp Env Release</string>
+		<string>806 Amp Env Velocity</string>
+		<string>8 Pitchbend Range</string>
+		<string>7 MIDI Mono Mode</string>
+		<string>9 Mono Mode Pitch Range</string>
+	</array>
+	<key>Version</key>
+	<real>1</real>
+</dict>
+</plist>
