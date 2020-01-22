@@ -1,4 +1,4 @@
-# Retro-Synth
+# Wavetables for Retro Synth
 
 A staggeringly vast set of wavetables.
 
