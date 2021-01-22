@@ -6,7 +6,7 @@ This collection distills the wider Modular Samples library into a bunch of wavet
 
 Recently updated with over 20 new wavetables, new patches and better organisation.
 
-![enter image description here](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs1.jpg)
+![Sample library disks](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs1.jpg)
 
 ## **Installation:**
 
@@ -24,11 +24,11 @@ Please note that by installing this collection you will loose any 3rd party or s
 
 **Note:** Both channel & stack presets feature a Smart control panel that you may find useful. 
 
-![enter image description here](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
+![Sample library disks](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
 
 https://soundcloud.com/modularsamples-com/sets/wavetablesretrosynth
 
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
