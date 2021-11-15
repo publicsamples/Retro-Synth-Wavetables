@@ -28,11 +28,14 @@ UPDATE: Since the last commit all wavetables are now available as seperate prese
 
 **Note:** Both channel & stack presets feature a Smart control panel that you may find useful. 
 
-![Sample library disks](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
+![retro](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
+## **Get help**
 
-https://soundcloud.com/modularsamples-com/sets/wavetablesretrosynth
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![dx-15-kontakt](https://www.modularsamples.com/img/msdx.png)
+](https://www.modularsamples.com/dx-15-for-kontakt/)
+
