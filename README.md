@@ -36,6 +36,6 @@ UPDATE: Since the last commit all wavetables are now available as seperate prese
 ## **Support this project**
 
 [
-![dx-15-kontakt](https://www.modularsamples.com/img/msdx.png)
+![dx-15-kontakt](https://www.modularsamples.com/img/dx-xoxxs.png)
 ](https://www.modularsamples.com/dx-15-for-kontakt/)
 
