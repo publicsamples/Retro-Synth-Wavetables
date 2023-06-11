@@ -2,8 +2,6 @@
 
 ## 500 wavetables and counting..
 
-- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/retrotables.html)
-
 This collection distills the wider Modular Samples library into a bunch of wavetables, patches and Smart Control Panels for Logic's Retro Synth instrument. 
 
 Recently updated with over 80 new wavetables, new patches and better organisation.
