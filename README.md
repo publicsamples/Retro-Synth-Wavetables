@@ -29,13 +29,3 @@ UPDATE: Since the last commit all wavetables are now available as seperate prese
 **Note:** Both channel & stack presets feature a Smart control panel that you may find useful. 
 
 ![retro](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
-## **Get help**
-
-[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
-
-## **Support this project**
-
-[
-![dx-15-kontakt](https://www.modularsamples.com/img/dx-xoxxs.png)
-](https://www.modularsamples.com/dx-15-for-kontakt/)
-
